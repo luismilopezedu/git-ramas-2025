@@ -1,1 +1,1 @@
-🥷 Reto: crea una rama llamada <tu-nombre>-ninja y añade un mensaje oculto.
+💰 Tesoro encontrado: el mayor poder de Git es la ramificación.
