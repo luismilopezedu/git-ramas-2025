@@ -7,5 +7,6 @@ HOLA
 
 
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
+confilctivooo
 
 --- Fin del mensaje base ---
