@@ -6,5 +6,6 @@ en la rama que tú mismo crees.
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
 Esta es mi versión de la línea conflictiva 😼
+modifico en la rama main para que me de conflicto al mergear
 
 --- Fin del mensaje base ---
