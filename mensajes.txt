@@ -6,3 +6,7 @@ en la rama que tú mismo crees.
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
 --- Fin del mensaje base ---
+
+
+- ¿Qué le dice un jardinero a otro? 
+- Nos vemos cuando podamos.
