@@ -1,0 +1,86 @@
+*   [33m993d92c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Resolver el conflicto del merge
+[31m|[m[32m\[m  
+[31m|[m * [33m8917e7e[m[33m ([m[1;32mjuan-conflicto[m[33m)[m Añadir un real ee
+* [32m|[m [33mfaf090f[m Modificaciones
+[32m|[m[32m/[m  
+* [33me0f2d08[m Para conflictear
+[32m|[m *   [33m824bf41[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/luismilopezedu/git-ramas-2025
+[32m|[m [33m|[m[32m\[m  
+[32m|[m [33m|[m[32m/[m  
+[32m|[m[32m/[m[33m|[m   
+* [33m|[m [33m9b9c1c0[m[33m ([m[1;31morigin/go[m[33m, [m[1;31morigin/fabian-cartagena[m[33m)[m De verdad que no puedo más
+[34m|[m *   [33me457f85[m Resolviendo conflicto de merge
+[34m|[m [35m|[m[36m\[m  
+[34m|[m [35m|[m * [33mf89c83b[m Mi versión de la línea conflictiva
+[34m|[m [35m|[m[34m/[m  
+[34m|[m[34m/[m[35m|[m   
+[34m|[m * [33mb4b41ce[m Pruea
+[34m|[m[34m/[m  
+[34m|[m * [33m8624835[m[33m ([m[1;31morigin/idea-misteriosa-42[m[33m)[m Añadiendo mi superpoder secreto
+[34m|[m[34m/[m  
+[34m|[m * [33m93a05e1[m[33m ([m[1;31morigin/Alvaro-ninja[m[33m)[m mensaje oculto creado
+[34m|[m [1;32m|[m * [33m5027ddf[m[33m ([m[1;31morigin/juan-ninja[m[33m, [m[1;32mjuan-ninja[m[33m)[m Quien sabe
+[34m|[m [1;32m|[m [1;33m|[m * [33m2b5f70f[m[33m ([m[1;31morigin/zapatilla-cortafuegos-v5[m[33m)[m Odiaban a Jesus por que decia la verdad
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m40d8554[m[33m ([m[1;31morigin/rama-de-arbol[m[33m)[m Añadiendo mensaje... 3... 2... 1... Este mensaje se ha añadido
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33mcbc5fef[m[33m ([m[1;31morigin/paste-unicornio-puntoso[m[33m)[m Añadiendo mi superpoder secreto ✨
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33mc58d361[m[33m ([m[1;31morigin/bugzilla[m[33m)[m Añadiendo mi rima preferida
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m866f721[m[33m ([m[1;31morigin/canela-en-rama[m[33m)[m aportando mi granito de arena
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33mfe43fe9[m[33m ([m[1;31morigin/La_rama_del_novato[m[33m)[m Añadiendo lineas intelectuales
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33mf1961ee[m[33m ([m[1;31morigin/fix-unicornio-rabioso[m[33m)[m Añadiendo mi superpoder secreto ✨
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33meecbfae[m[33m ([m[1;31morigin/el-canguro-kiwi-molon[m[33m)[m El canguro kiwi molón ha hecho su primera modificación en el archivo txt en la nueva rama
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m8aba54f[m[33m ([m[1;31morigin/petanca-acuatica[m[33m)[m Facto del dia añadido
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m958474c[m[33m ([m[1;31morigin/forbidden-branch[m[33m)[m Mensaje creativo añadido con éxito
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33mf09f560[m[33m ([m[1;31morigin/la-ramita-de-donBosco[m[33m)[m Añadiendo mi superpoder secreto ✨
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m94de33a[m[33m ([m[1;31morigin/Alvaro-Pedrito-Sánchez[m[33m, [m[1;32mcopia-rama-alvaro[m[33m)[m Añadiendo mi línea creativa
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m0775277[m[33m ([m[1;31morigin/idea-misteriosa-2004[m[33m)[m Añadiendo mi superpoder secreto
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m3ed152c[m[33m ([m[1;31morigin/ratoncito-perez[m[33m)[m Añadido inicio de la historia
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m3551714[m[33m ([m[1;31morigin/rama-guille[m[33m)[m Añadiendo mi mensaje absurdo
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m33c8480[m[33m ([m[1;31morigin/juanruiz-chill[m[33m, [m[1;32mjuanruiz-chill[m[33m)[m Añadir primer texto xdn't
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33mc118833[m[33m ([m[1;31morigin/elMaquina[m[33m)[m Añadiendo mi superpoder secreto
+[34m|[m [1;32m|[m[34m_[m[1;33m|[m[34m/[m  
+[34m|[m[34m/[m[1;32m|[m [1;33m|[m   
+[34m|[m [1;32m|[m [1;33m|[m * [33m46f5802[m[33m ([m[1;31morigin/conflicto-b[m[33m)[m Add conflicto-b
+[34m|[m [1;32m|[m [1;33m|[m * [33m7679aa2[m[33m ([m[1;31morigin/conflicto-a[m[33m)[m Add conflicto-a
+[34m|[m [1;32m|[m [1;33m|[m * [33mb061d24[m[33m ([m[1;31morigin/feature-tesoro[m[33m)[m Add feature-tesoro
+[34m|[m [1;32m|[m [1;33m|[m[1;32m/[m  
+[34m|[m [1;32m|[m[1;32m/[m[1;33m|[m   
+[34m|[m * [1;33m|[m [33mae5bf6f[m[33m ([m[1;31morigin/reto-ninja[m[33m)[m Add reto-ninja
+[34m|[m [1;33m|[m[1;33m/[m  
+[34m|[m * [33m33d954b[m[33m ([m[1;31morigin/mensaje-secreto[m[33m, [m[1;32mmensaje-secreto-maestro[m[33m)[m Add mensaje-secreto
+[34m|[m * [33m5615a6a[m[33m ([m[1;31morigin/feature-puerta[m[33m)[m Add feature-puerta
+[34m|[m * [33m2c5aea5[m[33m ([m[1;31morigin/feature-muralla[m[33m)[m Add feature-muralla
+[34m|[m * [33m9aa50bd[m[33m ([m[1;31morigin/feature-torre[m[33m)[m Add feature-torre
+[34m|[m[34m/[m  
+* [33med9b99e[m[33m ([m[1;31morigin/luces-extravagantes-45[m[33m)[m Initial commit
