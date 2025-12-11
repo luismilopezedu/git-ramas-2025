@@ -4,5 +4,6 @@ En la Actividad 1 deberás añadir aquí una línea divertida, absurda o creativ
 en la rama que tú mismo crees.
 
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
+Esta es mi versión de la línea conflictiva 😼
 
 --- Fin del mensaje base ---
