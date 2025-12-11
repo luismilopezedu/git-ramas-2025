@@ -18,3 +18,4 @@ Cada actividad tendrá un archivo guía proporcionado por tu profesor.
 
 <p>No puedo más</p>
 
+<p>Esta es mi versión de la línea conflictiva 😼</p>
