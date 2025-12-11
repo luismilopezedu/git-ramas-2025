@@ -1,4 +1,4 @@
-# 🌿 Prácticas de Git — Ramificación
+## 🌿 Prácticas de Git — Ramificación
 
 Este repositorio se utiliza para practicar:
 
