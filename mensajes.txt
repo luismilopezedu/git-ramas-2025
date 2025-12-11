@@ -6,3 +6,5 @@ en la rama que tú mismo crees.
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
 --- Fin del mensaje base ---
+
+No se que poner, pero no me puedo demorar mucho.
