@@ -6,6 +6,6 @@ en la rama que tú mismo crees.
 HOLA
 
 
-En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
+Esta es mi versión de la línea conflictiva 😼
 
 --- Fin del mensaje base ---
