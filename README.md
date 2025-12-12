@@ -15,3 +15,4 @@ El archivo **mensajes.txt** es el que usarás en la Actividad 1 y posteriores.
 Cada actividad tendrá un archivo guía proporcionado por tu profesor.
 
 ¡Explora, experimenta y diviértete aprendiendo Git!
+
