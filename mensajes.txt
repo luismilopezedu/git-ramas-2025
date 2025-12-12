@@ -9,8 +9,10 @@ en la rama que tú mismo crees.
 HOLA
 
 =======
+
 “🚀 Hoy he creado más ramas que un árbol de Navidad.”
 >>>>>>> origin/elMaquina
+Consejo de vida: Sal del grado
 
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
