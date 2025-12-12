@@ -1,11 +1,2 @@
-Este archivo se utiliza en las actividades de ramificación.
-
-En la Actividad 1 deberás añadir aquí una línea divertida, absurda o creativa
-en la rama que tú mismo crees.
-
-Mi primer desastre de Github.
-PD:El mejor canguro kiwi molón.
-
-En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
-
---- Fin del mensaje base ---
+La torre del castillo se alza sobre el repositorio. 🏰
+La puerta del castillo se abre solo con commits de calidad. 🚪✨
