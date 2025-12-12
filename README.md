@@ -16,11 +16,8 @@ Cada actividad tendrá un archivo guía proporcionado por tu profesor.
 
 ¡Explora, experimenta y diviértete aprendiendo Git!
 
-<<<<<<< HEAD
 <p>No puedo más</p>
 
 <p>Poco conflictiva era<p>
-=======
 
 HOLAAAA
->>>>>>> castillo-final
