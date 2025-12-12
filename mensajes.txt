@@ -1,9 +1,24 @@
+
+
+Este archivo se utiliza en las actividades de ramificación.
 La puerta del castillo se abre solo con commits de calidad. 🚪✨, esto como en el Dragon Quest IV
 
+<<<<<<< HEAD
 
 En la Actividad 1 deberás añadir aquí una línea divertida, absurda o creativa
 en la rama que tú mismo crees.
 HOLA
+<<<<<<< HEAD
+=======
+pues nose hacerlo
+Eres mas payo que las patatas ruffles de jamon york
+
+=======
+
+“🚀 Hoy he creado más ramas que un árbol de Navidad.”
+>>>>>>> origin/elMaquina
+Consejo de vida: Sal del grado
+>>>>>>> 0d7ad691a5c25d68b5820fcf29a64b5974a2c8b1
 Esta es la versión final, combinando ideas 😼✨
 --- Fin del mensaje base ---
 Esta es mi versión de la línea conflictiva 😼
