@@ -1,6 +1,6 @@
 Este archivo se utiliza en las actividades de ramificación.
 
-“🚀 Hoy he creado más ramas que un árbol de Navidad.”
+pues nose hacerlo
 
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
