@@ -1,5 +1,4 @@
-Este archivo(conflicto con main) se utiliza en las (conflicto en esta linea).
-
+conflicto arreglado
 
 En la Actividad 1 deberás añadir aquí una línea divertida, absurda o creativa
 en la rama que tú mismo crees.
