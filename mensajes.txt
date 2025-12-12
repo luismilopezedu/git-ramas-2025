@@ -3,8 +3,16 @@ conflicto arreglado
 En la Actividad 1 deberás añadir aquí una línea divertida, absurda o creativa
 en la rama que tú mismo crees.
 HOLA
+<<<<<<< HEAD
 
 
 Esta es mi versión de la línea conflictiva 😼
 
+=======
+Esta es la versión final, combinando ideas 😼✨
+>>>>>>> f2f08bd463be96d2155581e1e2ad13ea7c00fb1e
 --- Fin del mensaje base ---
+Esta es mi versión de la línea conflictiva 😼
+
+- ¿Qué le dice un jardinero a otro? 
+- Nos vemos cuando podamos.
