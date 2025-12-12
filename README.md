@@ -18,3 +18,4 @@ Cada actividad tendrá un archivo guía proporcionado por tu profesor.
 
 <p>No puedo más</p>
 
+<p>Poco conflictiva era<p>

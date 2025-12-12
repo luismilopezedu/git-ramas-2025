@@ -1,10 +1,10 @@
 Este archivo se utiliza en las actividades de ramificación.
 
+
 En la Actividad 1 deberás añadir aquí una línea divertida, absurda o creativa
 en la rama que tú mismo crees.
 
-En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
-
 Tras poner ambas ideas, esta es la versión con solución
+
 
 --- Fin del mensaje base ---
