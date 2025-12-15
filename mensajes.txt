@@ -5,4 +5,6 @@ en la rama que tú mismo crees.
 
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
+Cambio Sandunguero 15-12-2025
+
 --- Fin del mensaje base ---
