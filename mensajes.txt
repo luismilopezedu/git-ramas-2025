@@ -8,6 +8,7 @@ en la rama que tú mismo crees.
 HOLA
 Ahora es el momento en el que sale la verdadera bestia 😈
 Nuh uh
+yuh uh
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
 --- Fin del mensaje base ---
