@@ -8,3 +8,7 @@ En la Actividad 3 se utilizará este archivo para generar conflictos a propósit
 Cambio Sandunguero 15-12-2025
 
 --- Fin del mensaje base ---
+
+test
+test
+test
