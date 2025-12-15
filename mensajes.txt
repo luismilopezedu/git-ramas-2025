@@ -1,6 +1,7 @@
 Este archivo se utiliza en las actividades de ramificación.
 
 Consejo de vida: Sal del grado
+Consejo nuevo: Mejor usa Drive
 
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
