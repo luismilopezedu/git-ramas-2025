@@ -4,4 +4,7 @@ Este archivo se utiliza en las actividades de ramificación.
 
 En la Actividad 3 se utilizará este archivo para generar conflictos a propósito.
 
+chuches o patatas 
+unas garrapatas
+
 --- Fin del mensaje base ---
