@@ -16,4 +16,4 @@ Cada actividad tendrá un archivo guía proporcionado por tu profesor.
 
 ¡Explora, experimenta y diviértete aprendiendo Git!
 
-<p>Now it's a catastrophe</p>
+<p>Now it's a 😼astrophe</p>
